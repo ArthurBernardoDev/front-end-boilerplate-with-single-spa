@@ -1,4 +1,4 @@
-# Boilerplate para aplicações FrontEnd
+# Boilerplate para Micro FrontEnd
 
 Estamos utilizando Vite. Duvidas:
 
@@ -13,6 +13,7 @@ Estamos utilizando as seguintes tecnologias:
 - Vitest
 - Tailwind css
 - Post css
+- Single SPA
 
 
 Já esta pré-configurado:
@@ -22,6 +23,7 @@ Já esta pré-configurado:
 - Husky
 - Commit-lint
 - Tests
+- Single SPA
 
 
 ## Para baixar as dependências:
