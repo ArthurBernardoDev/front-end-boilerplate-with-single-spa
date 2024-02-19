@@ -1,6 +1,6 @@
 import { createBrowserRouter } from 'react-router-dom'
 
-import { InitialPage } from './screens/initial-page'
+import { InitialPage } from './pages/initial-page'
 
 export const router = createBrowserRouter([
   {
